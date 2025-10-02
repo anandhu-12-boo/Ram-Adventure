@@ -1,0 +1,5 @@
+{
+  "/packages": [
+    "./static/chunks/pages/packages.js"
+  ]
+}

@@ -1,0 +1,107 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/": [
+      "static/chunks/6d9aa_next_dist_compiled_next-devtools_index_3be24c16.js",
+      "static/chunks/6d9aa_next_dist_compiled_ebbb0481._.js",
+      "static/chunks/6d9aa_next_dist_shared_lib_1d0cfc6a._.js",
+      "static/chunks/6d9aa_next_dist_client_a58cdbf8._.js",
+      "static/chunks/6d9aa_next_dist_ad643560._.js",
+      "static/chunks/6d9aa_next_5e764d59._.js",
+      "static/chunks/6d9aa_react-dom_2f75c612._.js",
+      "static/chunks/6d9aa_d2493b5f._.js",
+      "static/chunks/[root-of-the-server]__58d3cb10._.js",
+      "static/chunks/OneDrive_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_index_2da965e7._.js",
+      "static/chunks/9f58e_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_index_e0c0db45._.js"
+    ],
+    "/_app": [
+      "static/chunks/6d9aa_next_dist_compiled_next-devtools_index_3be24c16.js",
+      "static/chunks/6d9aa_next_dist_compiled_047b5919._.js",
+      "static/chunks/6d9aa_next_dist_shared_lib_f863f120._.js",
+      "static/chunks/6d9aa_next_dist_client_aa558ada._.js",
+      "static/chunks/6d9aa_next_dist_ad643560._.js",
+      "static/chunks/6d9aa_react-dom_2f75c612._.js",
+      "static/chunks/6d9aa_d2493b5f._.js",
+      "static/chunks/[root-of-the-server]__d4602cb5._.js",
+      "static/chunks/OneDrive_Desktop_Work_Ram-Adventure_ram-adventure_src_styles_globals_4fe6a24f.css",
+      "static/chunks/OneDrive_Desktop_Work_Ram-Adventure_ram-adventure_src_pages__app_2da965e7._.js",
+      "static/chunks/9f58e_Desktop_Work_Ram-Adventure_ram-adventure_src_pages__app_66d89a78._.js"
+    ],
+    "/_error": [
+      "static/chunks/6d9aa_next_dist_compiled_next-devtools_index_3be24c16.js",
+      "static/chunks/6d9aa_next_dist_compiled_047b5919._.js",
+      "static/chunks/6d9aa_next_dist_shared_lib_b2d3be21._.js",
+      "static/chunks/6d9aa_next_dist_client_aa558ada._.js",
+      "static/chunks/6d9aa_next_dist_2318e831._.js",
+      "static/chunks/6d9aa_next_error_7d83348a.js",
+      "static/chunks/[next]_entry_page-loader_ts_d58ef9e9._.js",
+      "static/chunks/6d9aa_react-dom_2f75c612._.js",
+      "static/chunks/6d9aa_2524f0dc._.js",
+      "static/chunks/[root-of-the-server]__17d024f0._.js",
+      "static/chunks/OneDrive_Desktop_Work_Ram-Adventure_ram-adventure_src_pages__error_2da965e7._.js",
+      "static/chunks/9f58e_Desktop_Work_Ram-Adventure_ram-adventure_src_pages__error_fa5742f3._.js"
+    ],
+    "/about": [
+      "static/chunks/[root-of-the-server]__9b86af30._.js",
+      "static/chunks/6d9aa_next_dist_compiled_next-devtools_index_3be24c16.js",
+      "static/chunks/6d9aa_next_dist_compiled_ebbb0481._.js",
+      "static/chunks/6d9aa_next_dist_shared_lib_1d0cfc6a._.js",
+      "static/chunks/6d9aa_next_dist_client_a58cdbf8._.js",
+      "static/chunks/6d9aa_next_dist_ad643560._.js",
+      "static/chunks/6d9aa_next_fc3d53ad._.js",
+      "static/chunks/6d9aa_react-dom_2f75c612._.js",
+      "static/chunks/6d9aa_d2493b5f._.js",
+      "static/chunks/OneDrive_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_about_2da965e7._.js",
+      "static/chunks/9f58e_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_about_476df60b._.js"
+    ],
+    "/contact": [
+      "static/chunks/[root-of-the-server]__3481ef6a._.js",
+      "static/chunks/6d9aa_next_dist_compiled_next-devtools_index_3be24c16.js",
+      "static/chunks/6d9aa_next_dist_compiled_ebbb0481._.js",
+      "static/chunks/6d9aa_next_dist_shared_lib_1d0cfc6a._.js",
+      "static/chunks/6d9aa_next_dist_client_a58cdbf8._.js",
+      "static/chunks/6d9aa_next_dist_ad643560._.js",
+      "static/chunks/6d9aa_next_fc3d53ad._.js",
+      "static/chunks/6d9aa_react-dom_2f75c612._.js",
+      "static/chunks/6d9aa_d2493b5f._.js",
+      "static/chunks/OneDrive_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_contact_2da965e7._.js",
+      "static/chunks/9f58e_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_contact_cfa90808._.js"
+    ],
+    "/gallery": [
+      "static/chunks/[root-of-the-server]__41269a29._.js",
+      "static/chunks/6d9aa_next_dist_compiled_next-devtools_index_3be24c16.js",
+      "static/chunks/6d9aa_next_dist_compiled_ebbb0481._.js",
+      "static/chunks/6d9aa_next_dist_shared_lib_1d0cfc6a._.js",
+      "static/chunks/6d9aa_next_dist_client_a58cdbf8._.js",
+      "static/chunks/6d9aa_next_dist_ad643560._.js",
+      "static/chunks/6d9aa_next_fc3d53ad._.js",
+      "static/chunks/6d9aa_react-dom_2f75c612._.js",
+      "static/chunks/6d9aa_d2493b5f._.js",
+      "static/chunks/OneDrive_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_gallery_2da965e7._.js",
+      "static/chunks/9f58e_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_gallery_0bfe3823._.js"
+    ],
+    "/packages": [
+      "static/chunks/6d9aa_next_dist_compiled_next-devtools_index_3be24c16.js",
+      "static/chunks/6d9aa_next_dist_compiled_ebbb0481._.js",
+      "static/chunks/6d9aa_next_dist_shared_lib_1d0cfc6a._.js",
+      "static/chunks/6d9aa_next_dist_client_a58cdbf8._.js",
+      "static/chunks/6d9aa_next_dist_ad643560._.js",
+      "static/chunks/6d9aa_next_5e764d59._.js",
+      "static/chunks/6d9aa_react-dom_2f75c612._.js",
+      "static/chunks/6d9aa_d2493b5f._.js",
+      "static/chunks/[root-of-the-server]__cd6f719a._.js",
+      "static/chunks/OneDrive_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_packages_2da965e7._.js",
+      "static/chunks/9f58e_Desktop_Work_Ram-Adventure_ram-adventure_src_pages_packages_927a9269._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "ampFirstPages": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
+
+];
